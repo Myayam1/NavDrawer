@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">SideBarNav</string>
+
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    
+    <string-array name="food_names">
+        <item>Nasi Pager Godong</item>
+        <item>Sayur Becek</item>
+        <item>Nasi Jagung</item>
+        <item>Mie Tek-Tek</item>
+        <item>Emping Jagung</item>
+    </string-array>
+
+    <string-array name="food_descs">
+        <item>Nasi Pager Godong memiliki sejarah yang unik dan berasal dari kecamatan Godog di Grobogan. Hidangan ini awalnya terinspirasi dari sayur-sayuran di pekarangan rumah yang dijadikan sebagai pagar.</item>
+        <item>Sayur Becek, dengan bahan dasar iga kerbau, menawarkan hidangan yang tidak hanya lezat tetapi juga unik. Dengan bumbu cabe, ketumbar, bawang merah, dan bawang putih, hidangan ini diberi rasa gurih dan asam.</item>
+        <item>Nasi Jagung masih menjadi makanan pokok di daerah pedesaan Grobogan. Meskipun sulit ditemui karena perubahan zaman, Nasi Jagung tetap menjadi hidangan istimewa yang menjadi kenangan bagi warga Grobogan.</item>
+        <item>Mie Tek-Tek, kuliner khas Grobogan yang hanya bisa dinikmati pada malam hari, memiliki keunikan tersendiri. Penjual Mie Tek-Tek sering berkeliling atau menjajakannya di tempat-tempat tertentu.</item>
+        <item>Emping Jagung adalah pilihan cemilan yang enak dan cocok sebagai oleh-oleh. Sebagai produsen jagung terbesar, Grobogan menciptakan berbagai kreasi kuliner dari bahan utamanya.</item>
+    </string-array>
+
+    <string-array name="food_imgs">
+        <item>https://carica.id/wp-content/uploads/2022/02/NasiPager.jpg</item>
+        <item>https://cdn.idntimes.com/content-images/community/2022/04/screenshot-2022-04-30-08-46-20-433-cominstagramandroid-6d2cbb4bbec2340f770674be006d2944-ba27c11f3fe11fdf07c5917b3340ebb5.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Nasi_jagung_130116-33814_bli.JPG/1200px-Nasi_jagung_130116-33814_bli.JPG</item>
+        <item>https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/indizone/2022/07/02/aPs88M7/resep-mie-tek-tek-ala-abang-kaki-lima-enak-dan-bikin-nagih-yuk-coba62.jpg</item>
+        <item>https://img.ws.mms.shopee.co.id/sg-11134201-22120-rlle7b6nojlv6c</item>
+    </string-array>
+
+    <string-array name="drink_names">
+        <item>Sirup Kartika</item>
+    </string-array>
+
+    <string-array name="drink_descs">
+        <item>Sirup khas Grobogan ini memiliki rasa yang manis dan segar, cocok untuk dinikmati saat cuaca panas. Sirup Kartika dapat dicampur dengan air dingin atau es batu.</item>
+    </string-array>
+
+    <string-array name="drink_imgs">
+        <item>https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//83/MTA-10241641/kartika_sirup_kartika_frambozen_botol_plastik_-620_ml-_full01_5dy4ofn.jpg</item>
+    </string-array>
+
+    <string-array name="fav_food_names">
+        <item>Nasi Pager Godong</item>
+        <item>Nasi Padang</item>
+        <item>Nasi Goreng</item>
+    </string-array>
+
+    <string-array name="fav_food_descs">
+        <item>Nasi Pager Godong memiliki sejarah yang unik dan berasal dari kecamatan Godog di Grobogan. Hidangan ini awalnya terinspirasi dari sayur-sayuran di pekarangan rumah yang dijadikan sebagai pagar.</item>
+        <item>Nasi putih dengan lauk pauk Padang kaya bumbu, seperti rendang, ayam gulai, dan sambal lado mudo.</item>
+        <item>Nasi goreng Indonesia yang populer, dimasak dengan bumbu dan bisa ditambahkan telur, ayam, dan kecap manis.</item>
+    </string-array>
+
+    <string-array name="fav_food_imgs">
+        <item>https://carica.id/wp-content/uploads/2022/02/NasiPager.jpg</item>
+        <item>https://cdn.rri.co.id/berita/1/images/1689391542821-images_(22)/1689391542821-images_(22).jpeg</item>
+        <item>https://www.andy-cooks.com/cdn/shop/articles/20230527000540-andy-20cooks-20-20nasi-20goreng.jpg</item>
+    </string-array>
+</resources>

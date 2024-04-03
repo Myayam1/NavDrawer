@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group >
+        <item
+            android:id="@+id/menu_home"
+            android:title="Home" />
+    </group>
+    <group >
+        <item
+            android:id="@+id/menu_mkn_khas"
+            android:title="Makanan Khas" />
+        <item
+            android:id="@+id/menu_mnm_khas"
+            android:title="Minuman Khas" />
+        <item
+            android:id="@+id/menu_mkn_fav"
+            android:title="Makanan Favorit" />
+    </group>
+</menu>
